@@ -1,0 +1,5 @@
+
+    Eu vou pegar o ônibus [sug: autocarro] para a academia [sug: ginasio]. Depois vou tomar um suco [sug: sumo] e comer um sanduíche.
+    Mais tarde, preciso ir na rodoviária para encontrar meu amigo que está chegando de trem [sug: comboio].
+    Você pode me ajudar a encontrar meu celular [sug: telemovel]? Acho que deixei no banheiro [sug: casa de banho].
+    
